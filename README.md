@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **linux,Git,Github,Maven,Jenkins,Tomcat-webserver,SonarQube,Docker,Terraform,Ansible,Kubernetes,Nagios,Grafana,Prometheus,AWS-Cloud**
+- 🌱 I’m currently learning **Devops, AWS-Cloud**
 
 - 📫 How to reach me **manisankar.divi@gmail.com**
 
