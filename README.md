@@ -16,7 +16,7 @@ Building scalable infrastructure, automated delivery pipelines, and production-r
 
 ## 👨‍💻 About Me
 
-I'm a **DevOps & MLOps Engineer** focused on building reliable cloud infrastructure, Kubernetes platforms, CI/CD pipelines, GitOps workflows, and production machine learning systems.
+I'm a **Sr.DevOps & MLOps Engineer** focused on building reliable cloud infrastructure, Kubernetes platforms, CI/CD pipelines, GitOps workflows, and production machine learning systems.
 
 ### What I Work On
 
