@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DIVI MANI SANKAR</h1>
 
 <h3 align="center">
-DevOps & MLOps Engineer | Cloud | Kubernetes | ML Platform Engineering
+Sr.DevOps & MLOps Engineer | Cloud | Kubernetes | ML Platform Engineering
 </h3>
 
 <p align="center">
