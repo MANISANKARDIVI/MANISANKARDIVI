@@ -273,17 +273,17 @@ I enjoy building systems across the complete lifecycle:
 </p>
 
 ---
-
-## 📫 Connect With Me
-
 <p align="center">
 
 <a href="mailto:manisankar.divi@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</p>
+<br>
 
+📧 <b>manisankar.divi@gmail.com</b>
+
+</p>
 ---
 
 <p align="center">
