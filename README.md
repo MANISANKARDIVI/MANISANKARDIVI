@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DIVI MANI SANKAR</h1>
+<h1 align="center">Hi 👋, I'm MANI SANKAR DIVI</h1>
 
 <h3 align="center">
 Senior DevOps & MLOps Engineer | Cloud | Kubernetes | ML Platform Engineering
