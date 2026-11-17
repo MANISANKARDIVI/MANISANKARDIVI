@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANI SANKAR DIVI</h1>
 
 <h3 align="center">
-Senior DevOps & MLOps Engineer | Cloud | Kubernetes | ML Platform Engineering
+Senior DevOps Engineer | Cloud | Kubernetes
 </h3>
 
 <p align="center">
@@ -16,9 +16,7 @@ Building scalable infrastructure, automated delivery pipelines, and production-r
 
 ## 👨‍💻 About Me
 
-I'm a **Senior DevOps & MLOps Engineer** with **4+ years of professional experience**, focused on cloud infrastructure, Kubernetes, CI/CD, GitOps, and production machine learning platforms.
-
-I have extensive experience in **DevOps and platform engineering**, along with **1+ year of hands-on MLOps experience** working across ML pipelines, model lifecycle management, deployment, serving, monitoring, and automation.
+I'm a **Senior DevOps Engineer** with **4+ years of professional experience**, focused on cloud infrastructure, Kubernetes, CI/CD, GitOps, and production machine learning platforms.
 
 ### What I Work On
 
@@ -26,10 +24,7 @@ I have extensive experience in **DevOps and platform engineering**, along with *
 - ⚙️ DevOps & Platform Engineering
 - ☸️ Kubernetes & Container Platforms
 - 🔄 CI/CD & GitOps
-- 🤖 MLOps & ML Platform Engineering
-- 🧠 ML Training & Workflow Orchestration
-- 📦 Data & Model Versioning
-- 🚀 Model Deployment & Serving
+- 🤖 MLOps
 - 📊 Monitoring & Observability
 
 ---
@@ -74,35 +69,7 @@ I have extensive experience in **DevOps and platform engineering**, along with *
 
 ---
 
-## 🤖 MLOps
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
-
-<img src="https://img.shields.io/badge/Feast-FF6F00?style=for-the-badge&logo=feast&logoColor=white" alt="Feast"/>
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-
-<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow"/>
-
-<img src="https://img.shields.io/badge/KServe-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KServe"/>
-
-<img src="https://img.shields.io/badge/Great%20Expectations-7A3E9D?style=for-the-badge&logoColor=white" alt="Great Expectations"/>
-
-<img src="https://img.shields.io/badge/Evidently%20AI-5C6BC0?style=for-the-badge&logoColor=white" alt="Evidently AI"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-
-</p>
-
-### MLOps Lifecycle
-
-**Code → Data → Features → Train → Track → Validate → Promote → Register → Deploy → Serve → Monitor → Retrain**
-
-### Core Areas
-
-**DVC • Feast • MLflow • Kubeflow • KServe • Great Expectations • Evidently AI • FastAPI • Data & Model Versioning • Data Validation • Feature Management • ML Pipelines • Experiment Tracking • Model Registry • Model Training • Model Validation • Model Deployment • Model Serving • Model Monitoring • Drift Detection • Retraining Automation**
 
 ---
 
